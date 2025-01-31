@@ -1,14 +1,14 @@
 # 📢 CryptoTrade Telegram Bot
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/CryptoTrade-Telegram-Bot" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/CryptoTrade-Telegram-Bot" alt="Forks">
+  <img src="https://img.shields.io/github/stars/liam0413/CryptoTrade-Telegram-Bot" alt="Stars">
+  <img src="https://img.shields.io/github/forks/liam0413/CryptoTrade-Telegram-Bot" alt="Forks">
   <br>
-  <img src="https://img.shields.io/github/issues/yourusername/CryptoTrade-Telegram-Bot" alt="Open Issues">
-  <img src="https://img.shields.io/github/issues-closed/yourusername/CryptoTrade-Telegram-Bot" alt="Closed Issues">
+  <img src="https://img.shields.io/github/issues/liam0413/CryptoTrade-Telegram-Bot" alt="Open Issues">
+  <img src="https://img.shields.io/github/issues-closed/liam0413/CryptoTrade-Telegram-Bot" alt="Closed Issues">
   <br>
-  <img src="https://img.shields.io/github/languages/top/yourusername/CryptoTrade-Telegram-Bot" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/yourusername/CryptoTrade-Telegram-Bot" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/liam0413/CryptoTrade-Telegram-Bot" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/liam0413/CryptoTrade-Telegram-Bot" alt="Last Commit">
 </p>
 
 ---
